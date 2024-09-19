@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+training/model_data
+data_files/attributes_data.json
+data_files/developer_summary_stats.json
+data_files/items_data.json
+data_files/raw_marketplace_data.json
+data_files/riven_full_distribution_cache.json
+data_files/weapon_information.json
+misc
