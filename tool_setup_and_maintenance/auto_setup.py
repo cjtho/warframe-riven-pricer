@@ -4,7 +4,7 @@ from warframe_marketplace_predictor.tool_setup_and_maintenance import setup_weap
 from warframe_marketplace_predictor.training import train_model
 
 
-def main(update=True):
+def main(update=False):
     print("Verifying file paths...")
     filepaths.main()
     print("File paths verified.")
