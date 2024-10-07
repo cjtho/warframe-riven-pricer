@@ -1,5 +1,7 @@
 # Warframe Riven Pricer
 
+Slightly outdated. TODO: Upload the new version.
+
 This project aims to predict the price of Warframe Rivens using a neural network trained on a comprehensive dataset from the Warframe Marketplace. Below is a detailed guide on setting up, training, and using the model.
 
 ## Setup
